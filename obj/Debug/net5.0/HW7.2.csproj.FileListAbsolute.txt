@@ -1,0 +1,16 @@
+D:\CyberBionics\HOMEWORK\HW7\HW7.2\bin\Debug\net5.0\HW7.2.exe
+D:\CyberBionics\HOMEWORK\HW7\HW7.2\bin\Debug\net5.0\HW7.2.deps.json
+D:\CyberBionics\HOMEWORK\HW7\HW7.2\bin\Debug\net5.0\HW7.2.runtimeconfig.json
+D:\CyberBionics\HOMEWORK\HW7\HW7.2\bin\Debug\net5.0\HW7.2.runtimeconfig.dev.json
+D:\CyberBionics\HOMEWORK\HW7\HW7.2\bin\Debug\net5.0\HW7.2.dll
+D:\CyberBionics\HOMEWORK\HW7\HW7.2\bin\Debug\net5.0\ref\HW7.2.dll
+D:\CyberBionics\HOMEWORK\HW7\HW7.2\bin\Debug\net5.0\HW7.2.pdb
+D:\CyberBionics\HOMEWORK\HW7\HW7.2\obj\Debug\net5.0\HW7.2.csprojAssemblyReference.cache
+D:\CyberBionics\HOMEWORK\HW7\HW7.2\obj\Debug\net5.0\HW7.2.GeneratedMSBuildEditorConfig.editorconfig
+D:\CyberBionics\HOMEWORK\HW7\HW7.2\obj\Debug\net5.0\HW7.2.AssemblyInfoInputs.cache
+D:\CyberBionics\HOMEWORK\HW7\HW7.2\obj\Debug\net5.0\HW7.2.AssemblyInfo.cs
+D:\CyberBionics\HOMEWORK\HW7\HW7.2\obj\Debug\net5.0\HW7.2.csproj.CoreCompileInputs.cache
+D:\CyberBionics\HOMEWORK\HW7\HW7.2\obj\Debug\net5.0\HW7.2.dll
+D:\CyberBionics\HOMEWORK\HW7\HW7.2\obj\Debug\net5.0\ref\HW7.2.dll
+D:\CyberBionics\HOMEWORK\HW7\HW7.2\obj\Debug\net5.0\HW7.2.pdb
+D:\CyberBionics\HOMEWORK\HW7\HW7.2\obj\Debug\net5.0\HW7.2.genruntimeconfig.cache
