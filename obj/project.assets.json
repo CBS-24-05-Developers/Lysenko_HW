@@ -8,25 +8,25 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Лесник Никитыч\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Миша\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CyberBionics\\HOMEWORK\\HW7\\HW7.2\\HW7.2.csproj",
+      "projectUniqueName": "C:\\Users\\Миша\\Source\\Repos\\Lysenko_HW\\HW7.2.csproj",
       "projectName": "HW7.2",
-      "projectPath": "D:\\CyberBionics\\HOMEWORK\\HW7\\HW7.2\\HW7.2.csproj",
-      "packagesPath": "C:\\Users\\Лесник Никитыч\\.nuget\\packages\\",
-      "outputPath": "D:\\CyberBionics\\HOMEWORK\\HW7\\HW7.2\\obj\\",
+      "projectPath": "C:\\Users\\Миша\\Source\\Repos\\Lysenko_HW\\HW7.2.csproj",
+      "packagesPath": "C:\\Users\\Миша\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Миша\\Source\\Repos\\Lysenko_HW\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\Лесник Никитыч\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Миша\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.204\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
       }
     }
   }
